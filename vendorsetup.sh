@@ -1,1 +1,1 @@
-add_lunch_combo cm_himawl-userdebug
+add_lunch_combo candy5_himawl-userdebug
